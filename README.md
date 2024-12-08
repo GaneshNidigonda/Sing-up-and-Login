@@ -9,10 +9,12 @@ Includes fields for email, password, and confirm password.
 Validates input with Yup (e.g., email format, password matching).
 Displays validation error messages for user guidance.
 Includes a "Go to Login" button that navigates to the Login page.
+
 Login Form:
 ------------
 Contains fields for username and password.
 Includes a "Forgot Password" link and a button to navigate to the Sign-Up page.
+
 Responsive Design:
 -----------------
 Both pages are designed with CSS for a clean and modern look.
